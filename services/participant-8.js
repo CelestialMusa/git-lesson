@@ -15,7 +15,7 @@ const service = {
   // update description to your current work focus
   // ──────────────────────────────────────────
   status: "active",
-  description: "Currently focusing on refining UI components, improving sidebar functionality, and resolving layout and interaction issues to enhance overall user experience and interface consistency.",
+  description: "Currently focusing on refining UI components, improving sidebar functionality.",
 
   // Leave these alone
   createdAt: "2026-03-18",
