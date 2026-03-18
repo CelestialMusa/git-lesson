@@ -1,0 +1,13 @@
+{
+  "app_name": "git-conflict-lab",
+  "version": "1.0.0",
+  "environment": "development",
+  "last_updated": "2026-03-18",
+  "maintainer": "facilitator",
+  "contributors": [],
+  "settings": {
+    "log_level": "info",
+    "max_retries": 3,
+    "timeout_ms": 5000
+  }
+}
