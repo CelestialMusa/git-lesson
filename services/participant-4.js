@@ -14,12 +14,12 @@ const service = {
   // YOUR TASK: Change status to "active" and
   // update description to your current work focus
   // ──────────────────────────────────────────
-  status: "inactive",
-  description: "Update this with your current focus area",
+  status: "active",
+  description: "DSSOH",
 
   // Leave these alone
   createdAt: "2026-03-18",
-  owner: null, // Add your name here too if you like
+  owner: Busisiwe, // Add your name here too if you like
 };
 
 function getStatus() {
