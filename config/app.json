@@ -4,7 +4,9 @@
   "environment": "development",
   "last_updated": "2026-03-18",
   "maintainer": "facilitator",
-  "contributors": [],
+  "contributors": [
+    "Nkosinathi"
+  ],
   "settings": {
     "log_level": "info",
     "max_retries": 3,
