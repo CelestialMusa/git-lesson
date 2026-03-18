@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented here.
 
-Format: `[Participant N - Name] Description of change`
+Format: `[Participant 7 - Sipho Masango] Description of change`
 
 ---
 
