@@ -19,7 +19,7 @@ const service = {
 
   // Leave these alone
   createdAt: "2026-03-18",
-  owner: Sipho, // Add your name here too if you like
+  owner: "Sipho", // Add your name here too if you like
 };
 
 function getStatus() {
